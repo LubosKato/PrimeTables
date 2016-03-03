@@ -1,0 +1,12 @@
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\bin\Debug\PrimeTables.Tests.dll
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\bin\Debug\PrimeTables.Tests.pdb
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\bin\Debug\PrimeTables.exe
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\bin\Debug\PrimeTables.pdb
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\obj\Debug\PrimeTables.Tests.csprojResolveAssemblyReference.cache
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\obj\Debug\PrimeTables.Tests.dll
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\obj\Debug\PrimeTables.Tests.pdb
+d:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\bin\Debug\Moq.dll
+d:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables.Tests\bin\Debug\Moq.xml

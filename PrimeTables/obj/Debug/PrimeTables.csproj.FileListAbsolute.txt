@@ -1,0 +1,6 @@
+d:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables\bin\Debug\PrimeTables.exe.config
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables\bin\Debug\PrimeTables.exe
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables\bin\Debug\PrimeTables.pdb
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables\obj\Debug\PrimeTables.exe
+D:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables\obj\Debug\PrimeTables.pdb
+d:\Dropbox\CV\8\code\PrimeTables\PrimeTables\PrimeTables\obj\Debug\PrimeTables.csprojResolveAssemblyReference.cache
