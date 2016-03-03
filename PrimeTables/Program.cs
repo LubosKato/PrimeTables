@@ -18,6 +18,7 @@ namespace PrimeTables
                 {
                     Console.WriteLine(row);
                 }
+                Console.ReadLine();
             }
             catch (Exception e)
             {
